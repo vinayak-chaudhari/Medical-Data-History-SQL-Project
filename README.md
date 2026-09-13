@@ -41,6 +41,4 @@ It emphasizes core SQL concepts like filtering, aggregation, grouping, and date-
 ## 💻 Tools & Technologies
 - MySQL  
 
----
 
-## 📂 Project Structure
